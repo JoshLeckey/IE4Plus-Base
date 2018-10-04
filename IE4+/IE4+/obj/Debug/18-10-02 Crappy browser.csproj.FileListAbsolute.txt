@@ -1,0 +1,19 @@
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.exe.config
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.exe
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.pdb
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.csprojResolveAssemblyReference.cache
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\_18_10_02_Crappy_browser.Form1.resources
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\_18_10_02_Crappy_browser.Properties.Resources.resources
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.csproj.GenerateResource.Cache
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.exe
+D:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.pdb
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.csprojAssemblyReference.cache
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\_18_10_02_Crappy_browser.Form1.resources
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\_18_10_02_Crappy_browser.Properties.Resources.resources
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.csproj.GenerateResource.cache
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.csproj.CoreCompileInputs.cache
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.exe
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\obj\Debug\18-10-02 Crappy browser.pdb
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.exe.config
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.exe
+G:\SSD 2018\18-10-02 Crappy browser\18-10-02 Crappy browser\bin\Debug\18-10-02 Crappy browser.pdb
