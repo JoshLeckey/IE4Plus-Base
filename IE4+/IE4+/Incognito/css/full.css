@@ -1,0 +1,16 @@
+/*Copyright to Idkausername 
+This code was made for ie4+ base */
+
+body {
+  background: url('https://www.wallpaperflare.com/static/112/96/900/moon-stars-minimal-4k-wallpaper.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
