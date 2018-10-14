@@ -6,6 +6,11 @@ Hopefully we keep adding to this, but yeah
 
 //side note we didnt decide to start adding updates until 0.1c so yeah
 
+##Update 0.1D
+-Added Incognito Form [Private Atm]
+-Added Incognito Html
+*The Incognito Form is Private atm, as it still being worked on
+
 ##Update 0.1C
 -Added Incognito Mode
 -Added History List
